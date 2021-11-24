@@ -1,0 +1,71 @@
+.navbar-brand img{
+    height: 50px;
+    width: 150px;
+    left: 292px;
+    top: 45px;
+    border-radius: undefinedpx;
+}
+#navbarNav a {
+    height: 24px;
+    width: 95px;
+    left: 5px;
+    top: 5px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+}
+.header-section{
+    background-color: #F0FFF0;
+}
+.sign-in-button{
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: none;
+    background-color: #21B573;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: Roboto;
+}
+.header-section-images img{
+    width: 100%;
+    height: fit-content;
+}
+.header-main-section{
+    padding: 5% 0px;
+}
+.red-font{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FD511A;
+}
+h1{
+        font-family: Poppins;
+        font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.highlighter{
+    color: #21B573;
+}
+p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
